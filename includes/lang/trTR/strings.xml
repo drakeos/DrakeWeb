@@ -1,0 +1,29 @@
+<!-- Attention! This project is not active. Modifying this wont affect your website at all -->
+<pagenames>
+          <home>Anasayfa</home>
+		  <myaccount>Hesap</myaccount>
+		  <vote>Oyla!</vote>
+		  <donate>Baðýþ</donate>
+		  <accountpanel>Hesap Paneli</accountpanel>
+		  <changepass>Þifre Deðiþtir</changepass>
+		  <latestnews>Son Güncellemeler</latestnews>
+		  <voteshop>Oy Dükkaný</voteshop>
+		  <donationshop>Baðýþ Dükkaný</donationshop>
+		  <raf>Arkadaþýna Öner!</raf>
+		  <adminpanel>Yönetici Paneli</adminpanel>
+		  <register>Üye ol!</register>
+		  <forgotpassword>Þifremi Unuttum</forgotpassword>
+		  <characterunstuck>Karakter Kurtar</characterunstuck>
+		  
+</pagenames>
+<titles>
+        <accountmanagement>Hesap Yönetimi</accountmanagement>
+		<serverstatus>Sunucu Durumu</serverstatus>
+		<services>Servisler</services>
+		<characterservices>Karakter Servisleri</characterservices>
+		<accountservices>Hesap Servisleri</accountservices>
+		<settings>Ayarlar</settings>
+		<unstuck>Kurtar</unstuck>
+		<revive>Dirilt</revive>
+		<teleport>Iþýnla</teleport>
+</titles>
